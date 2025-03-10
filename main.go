@@ -12,5 +12,5 @@ func asd() {
 }
 
 func aplusb() {
-	fmt.Println("2+2")
+	fmt.Println("4+4")
 }
